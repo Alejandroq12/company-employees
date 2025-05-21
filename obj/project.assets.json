@@ -33,6 +33,16 @@
             "related": ".pdb;.xml"
           }
         }
+      },
+      "LoggingService/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/LoggingService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LoggingService.dll": {}
+        }
       }
     }
   },
@@ -67,10 +77,16 @@
         "microsoft.openapi.1.6.17.nupkg.sha512",
         "microsoft.openapi.nuspec"
       ]
+    },
+    "LoggingService/1.0.0": {
+      "type": "project",
+      "path": "LoggingService/LoggingService.csproj",
+      "msbuildProject": "LoggingService/LoggingService.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "LoggingService >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 9.0.0"
     ]
   },
@@ -106,7 +122,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Julio Quezada\\Documents\\dev\\codeMaze\\company-employees\\LoggingService\\LoggingService.csproj": {
+              "projectPath": "C:\\Users\\Julio Quezada\\Documents\\dev\\codeMaze\\company-employees\\LoggingService\\LoggingService.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -158,7 +178,7 @@
       "code": "NU1900",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Error al obtener los datos de vulnerabilidad del paquete: No se puede cargar el índice de servicio del origen https://nuget.telerik.com/v3/index.json."
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://nuget.telerik.com/v3/index.json."
     }
   ]
 }
