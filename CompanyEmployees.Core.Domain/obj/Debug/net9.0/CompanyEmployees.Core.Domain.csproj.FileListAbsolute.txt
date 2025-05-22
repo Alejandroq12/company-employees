@@ -1,0 +1,12 @@
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Core.Domain\bin\Debug\net9.0\CompanyEmployees.Core.Domain.deps.json
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Core.Domain\bin\Debug\net9.0\CompanyEmployees.Core.Domain.dll
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Core.Domain\bin\Debug\net9.0\CompanyEmployees.Core.Domain.pdb
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Core.Domain\obj\Debug\net9.0\CompanyEmployees.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Core.Domain\obj\Debug\net9.0\CompanyEmployees.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Core.Domain\obj\Debug\net9.0\CompanyEmployees.Core.Domain.AssemblyInfo.cs
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Core.Domain\obj\Debug\net9.0\CompanyEmployees.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Core.Domain\obj\Debug\net9.0\CompanyEmployees.Core.Domain.sourcelink.json
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Core.Domain\obj\Debug\net9.0\CompanyEmployees.Core.Domain.dll
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Core.Domain\obj\Debug\net9.0\refint\CompanyEmployees.Core.Domain.dll
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Core.Domain\obj\Debug\net9.0\CompanyEmployees.Core.Domain.pdb
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Core.Domain\obj\Debug\net9.0\ref\CompanyEmployees.Core.Domain.dll

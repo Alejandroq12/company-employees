@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = ".", "..csproj", "{FEA91663-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingService", "LoggingService\LoggingService.csproj", "{942269A9-31D2-4545-95A0-A862816CD669}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyEmployees.Core.Domain", "CompanyEmployees.Core.Domain\CompanyEmployees.Core.Domain.csproj", "{94E04E9A-12F6-4484-946B-DFD28B2A84C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{942269A9-31D2-4545-95A0-A862816CD669}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{942269A9-31D2-4545-95A0-A862816CD669}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{942269A9-31D2-4545-95A0-A862816CD669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94E04E9A-12F6-4484-946B-DFD28B2A84C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94E04E9A-12F6-4484-946B-DFD28B2A84C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94E04E9A-12F6-4484-946B-DFD28B2A84C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94E04E9A-12F6-4484-946B-DFD28B2A84C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

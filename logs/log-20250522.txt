@@ -42,3 +42,25 @@
 [11:36:04 INFORMATION] Executed action _.Controllers.WeatherForecastController.Get (.) in 73.0279ms
 [11:36:04 INFORMATION] Executed endpoint '_.Controllers.WeatherForecastController.Get (.)'
 [11:36:04 INFORMATION] Request finished HTTP/2 GET https://localhost:5001/weatherforecast - 200 null application/json; charset=utf-8 158.4259ms
+[13:52:27 INFORMATION] Request starting HTTP/2 GET https://localhost:5001/swagger - null null
+[13:52:27 INFORMATION] Request finished HTTP/2 GET https://localhost:5001/swagger - 404 0 null 38.3365ms
+[13:52:27 INFORMATION] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:5001/swagger, Response status code: 404
+[13:53:05 INFORMATION] Request starting HTTP/2 GET https://localhost:5001/ - null null
+[13:53:05 INFORMATION] Request finished HTTP/2 GET https://localhost:5001/ - 404 0 null 58.5432ms
+[13:53:05 INFORMATION] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:5001/, Response status code: 404
+[16:58:02 INFORMATION] Request starting HTTP/2 GET https://localhost:5001/ - null null
+[16:58:02 INFORMATION] Request finished HTTP/2 GET https://localhost:5001/ - 404 0 null 18.1204ms
+[16:58:02 INFORMATION] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:5001/, Response status code: 404
+[16:58:05 INFORMATION] Request starting HTTP/2 GET https://localhost:5001/ - null null
+[16:58:05 INFORMATION] Request finished HTTP/2 GET https://localhost:5001/ - 404 0 null 1.9655ms
+[16:58:05 INFORMATION] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:5001/, Response status code: 404
+[16:58:08 INFORMATION] Request starting HTTP/2 GET https://localhost:5001/ - null null
+[16:58:08 INFORMATION] Request finished HTTP/2 GET https://localhost:5001/ - 404 0 null 2.4139ms
+[16:58:08 INFORMATION] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:5001/, Response status code: 404
+[17:19:27 INFORMATION] Application is shutting down...
+[17:26:57 WARNING] The WebRootPath was not found: C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\wwwroot. Static files may be unavailable.
+[17:26:57 INFORMATION] Now listening on: https://localhost:5001
+[17:26:57 INFORMATION] Now listening on: http://localhost:5000
+[17:26:57 INFORMATION] Application started. Press Ctrl+C to shut down.
+[17:26:57 INFORMATION] Hosting environment: Development
+[17:26:57 INFORMATION] Content root path: C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees

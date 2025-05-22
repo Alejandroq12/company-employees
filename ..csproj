@@ -16,6 +16,8 @@
 
   <ItemGroup>
     <Compile Remove="LoggingService\**\*.cs" />
+    <Compile Remove="CompanyEmployees.Core.Domain\**\*.cs" />
+    <ProjectReference Include="CompanyEmployees.Core.Domain\CompanyEmployees.Core.Domain.csproj" />
     <ProjectReference Include="LoggingService\LoggingService.csproj" />
   </ItemGroup>
 

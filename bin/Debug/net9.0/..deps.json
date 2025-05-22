@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v9.0": {
       "./1.0.0": {
         "dependencies": {
+          "CompanyEmployees.Core.Domain": "1.0.0",
           "LoggingService": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "9.0.0",
           "Serilog.Sinks.Seq": "8.0.0"
@@ -222,6 +223,14 @@
         }
       },
       "System.Diagnostics.DiagnosticSource/8.0.0": {},
+      "CompanyEmployees.Core.Domain/1.0.0": {
+        "runtime": {
+          "CompanyEmployees.Core.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "LoggingService/1.0.0": {
         "dependencies": {
           "Serilog.AspNetCore": "8.0.3",
@@ -417,6 +426,11 @@
       "sha512": "sha512-c9xLpVz6PL9lp/djOWtk5KPDZq3cSYpmXoJQY524EOtuFl5z9ZtsotpsyrDW40U1DRnQSYvcPKEUV0X//u6gkQ==",
       "path": "system.diagnostics.diagnosticsource/8.0.0",
       "hashPath": "system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512"
+    },
+    "CompanyEmployees.Core.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "LoggingService/1.0.0": {
       "type": "project",

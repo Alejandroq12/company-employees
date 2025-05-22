@@ -453,6 +453,16 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
+      "CompanyEmployees.Core.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/CompanyEmployees.Core.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CompanyEmployees.Core.Domain.dll": {}
+        }
+      },
       "LoggingService/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -1194,6 +1204,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "CompanyEmployees.Core.Domain/1.0.0": {
+      "type": "project",
+      "path": "CompanyEmployees.Core.Domain/CompanyEmployees.Core.Domain.csproj",
+      "msbuildProject": "CompanyEmployees.Core.Domain/CompanyEmployees.Core.Domain.csproj"
+    },
     "LoggingService/1.0.0": {
       "type": "project",
       "path": "LoggingService/LoggingService.csproj",
@@ -1202,6 +1217,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "CompanyEmployees.Core.Domain >= 1.0.0",
       "LoggingService >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 9.0.0",
       "Serilog.Sinks.Seq >= 8.0.0"
@@ -1240,6 +1256,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "C:\\Users\\Julio Quezada\\Documents\\dev\\codeMaze\\company-employees\\CompanyEmployees.Core.Domain\\CompanyEmployees.Core.Domain.csproj": {
+              "projectPath": "C:\\Users\\Julio Quezada\\Documents\\dev\\codeMaze\\company-employees\\CompanyEmployees.Core.Domain\\CompanyEmployees.Core.Domain.csproj"
+            },
             "C:\\Users\\Julio Quezada\\Documents\\dev\\codeMaze\\company-employees\\LoggingService\\LoggingService.csproj": {
               "projectPath": "C:\\Users\\Julio Quezada\\Documents\\dev\\codeMaze\\company-employees\\LoggingService\\LoggingService.csproj"
             }

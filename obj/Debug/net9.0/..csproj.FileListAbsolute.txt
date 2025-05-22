@@ -1,6 +1,11 @@
 C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\bin\Debug\net9.0\appsettings.json
 C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\bin\Debug\net9.0\appsettings.Production.json
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\bin\Debug\net9.0\CompanyEmployees.Core.Domain\bin\Debug\net9.0\CompanyEmployees.Core.Domain.deps.json
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\bin\Debug\net9.0\CompanyEmployees.Core.Domain\obj\CompanyEmployees.Core.Domain.csproj.nuget.dgspec.json
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\bin\Debug\net9.0\CompanyEmployees.Core.Domain\obj\Debug\net9.0\CompanyEmployees.Core.Domain.sourcelink.json
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\bin\Debug\net9.0\CompanyEmployees.Core.Domain\obj\project.assets.json
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\bin\Debug\net9.0\LoggingService\bin\Debug\net9.0\LoggingService.deps.json
 C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\bin\Debug\net9.0\LoggingService\obj\Debug\net9.0\LoggingService.sourcelink.json
 C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\bin\Debug\net9.0\LoggingService\obj\LoggingService.csproj.nuget.dgspec.json
 C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\bin\Debug\net9.0\LoggingService\obj\project.assets.json
@@ -22,7 +27,10 @@ C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\bin\Debug\net9.0
 C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\bin\Debug\net9.0\Serilog.Sinks.Console.dll
 C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\bin\Debug\net9.0\Serilog.Sinks.Debug.dll
 C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\bin\Debug\net9.0\Serilog.Sinks.File.dll
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\bin\Debug\net9.0\Serilog.Sinks.Seq.dll
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\bin\Debug\net9.0\CompanyEmployees.Core.Domain.dll
 C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\bin\Debug\net9.0\LoggingService.dll
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\bin\Debug\net9.0\CompanyEmployees.Core.Domain.pdb
 C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\bin\Debug\net9.0\LoggingService.pdb
 C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\obj\Debug\net9.0\..csproj.AssemblyReference.cache
 C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\obj\Debug\net9.0\..GeneratedMSBuildEditorConfig.editorconfig
@@ -46,5 +54,3 @@ C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\obj\Debug\net9.0
 C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\obj\Debug\net9.0\..pdb
 C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\obj\Debug\net9.0\..genruntimeconfig.cache
 C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\obj\Debug\net9.0\ref\..dll
-C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\bin\Debug\net9.0\LoggingService\bin\Debug\net9.0\LoggingService.deps.json
-C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\bin\Debug\net9.0\Serilog.Sinks.Seq.dll
