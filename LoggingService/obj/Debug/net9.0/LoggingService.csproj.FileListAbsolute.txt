@@ -1,0 +1,13 @@
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\LoggingService\bin\Debug\net9.0\LoggingService.deps.json
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\LoggingService\bin\Debug\net9.0\LoggingService.dll
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\LoggingService\bin\Debug\net9.0\LoggingService.pdb
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\LoggingService\obj\Debug\net9.0\LoggingService.csproj.AssemblyReference.cache
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\LoggingService\obj\Debug\net9.0\LoggingService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\LoggingService\obj\Debug\net9.0\LoggingService.AssemblyInfoInputs.cache
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\LoggingService\obj\Debug\net9.0\LoggingService.AssemblyInfo.cs
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\LoggingService\obj\Debug\net9.0\LoggingService.csproj.CoreCompileInputs.cache
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\LoggingService\obj\Debug\net9.0\LoggingService.sourcelink.json
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\LoggingService\obj\Debug\net9.0\LoggingService.dll
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\LoggingService\obj\Debug\net9.0\refint\LoggingService.dll
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\LoggingService\obj\Debug\net9.0\LoggingService.pdb
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\LoggingService\obj\Debug\net9.0\ref\LoggingService.dll
