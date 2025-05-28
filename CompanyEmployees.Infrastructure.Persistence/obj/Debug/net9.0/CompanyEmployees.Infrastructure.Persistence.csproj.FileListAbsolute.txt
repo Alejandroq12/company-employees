@@ -1,0 +1,16 @@
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Infrastructure.Persistence\bin\Debug\net9.0\CompanyEmployees.Infrastructure.Persistence.deps.json
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Infrastructure.Persistence\bin\Debug\net9.0\CompanyEmployees.Infrastructure.Persistence.dll
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Infrastructure.Persistence\bin\Debug\net9.0\CompanyEmployees.Infrastructure.Persistence.pdb
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Infrastructure.Persistence\bin\Debug\net9.0\CompanyEmployees.Core.Domain.dll
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Infrastructure.Persistence\bin\Debug\net9.0\CompanyEmployees.Core.Domain.pdb
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Infrastructure.Persistence\obj\Debug\net9.0\CompanyEmployees.Infrastructure.Persistence.csproj.AssemblyReference.cache
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Infrastructure.Persistence\obj\Debug\net9.0\CompanyEmployees.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Infrastructure.Persistence\obj\Debug\net9.0\CompanyEmployees.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Infrastructure.Persistence\obj\Debug\net9.0\CompanyEmployees.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Infrastructure.Persistence\obj\Debug\net9.0\CompanyEmployees.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Infrastructure.Persistence\obj\Debug\net9.0\CompanyEmployees.Infrastructure.Persistence.sourcelink.json
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Infrastructure.Persistence\obj\Debug\net9.0\CompanyE.E0477890.Up2Date
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Infrastructure.Persistence\obj\Debug\net9.0\CompanyEmployees.Infrastructure.Persistence.dll
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Infrastructure.Persistence\obj\Debug\net9.0\refint\CompanyEmployees.Infrastructure.Persistence.dll
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Infrastructure.Persistence\obj\Debug\net9.0\CompanyEmployees.Infrastructure.Persistence.pdb
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Infrastructure.Persistence\obj\Debug\net9.0\ref\CompanyEmployees.Infrastructure.Persistence.dll
