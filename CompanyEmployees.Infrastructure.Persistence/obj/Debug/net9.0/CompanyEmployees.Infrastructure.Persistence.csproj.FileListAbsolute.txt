@@ -1,4 +1,5 @@
 C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Infrastructure.Persistence\bin\Debug\net9.0\CompanyEmployees.Infrastructure.Persistence.deps.json
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Infrastructure.Persistence\bin\Debug\net9.0\CompanyEmployees.Infrastructure.Persistence.runtimeconfig.json
 C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Infrastructure.Persistence\bin\Debug\net9.0\CompanyEmployees.Infrastructure.Persistence.dll
 C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Infrastructure.Persistence\bin\Debug\net9.0\CompanyEmployees.Infrastructure.Persistence.pdb
 C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Infrastructure.Persistence\bin\Debug\net9.0\CompanyEmployees.Core.Domain.dll
@@ -13,4 +14,5 @@ C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees
 C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Infrastructure.Persistence\obj\Debug\net9.0\CompanyEmployees.Infrastructure.Persistence.dll
 C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Infrastructure.Persistence\obj\Debug\net9.0\refint\CompanyEmployees.Infrastructure.Persistence.dll
 C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Infrastructure.Persistence\obj\Debug\net9.0\CompanyEmployees.Infrastructure.Persistence.pdb
+C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Infrastructure.Persistence\obj\Debug\net9.0\CompanyEmployees.Infrastructure.Persistence.genruntimeconfig.cache
 C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\CompanyEmployees.Infrastructure.Persistence\obj\Debug\net9.0\ref\CompanyEmployees.Infrastructure.Persistence.dll
