@@ -1,0 +1,42 @@
+[09:02:56 WARNING] The WebRootPath was not found: C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\wwwroot. Static files may be unavailable.
+[09:02:56 INFORMATION] Now listening on: https://localhost:5001
+[09:02:56 INFORMATION] Now listening on: http://localhost:5000
+[09:02:56 INFORMATION] Application started. Press Ctrl+C to shut down.
+[09:02:56 INFORMATION] Hosting environment: Development
+[09:02:56 INFORMATION] Content root path: C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees
+[09:03:23 INFORMATION] Request starting HTTP/2 GET https://localhost:5001/ - null null
+[09:03:23 INFORMATION] Request finished HTTP/2 GET https://localhost:5001/ - 404 0 null 22.7751ms
+[09:03:23 INFORMATION] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:5001/, Response status code: 404
+[09:04:03 INFORMATION] Request starting HTTP/2 GET https://localhost:5001/weatherforecast - null null
+[09:04:03 INFORMATION] Executing endpoint '_.Controllers.WeatherForecastController.Get (.)'
+[09:04:03 INFORMATION] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[_.WeatherForecast] Get() on controller _.Controllers.WeatherForecastController (.).
+[09:04:03 INFORMATION] This is an information
+[09:04:03 WARNING] This is a warn message
+[09:04:03 ERROR] This is an error message
+[09:04:03 INFORMATION] Executing ObjectResult, writing value of type '_.WeatherForecast[]'.
+[09:04:03 INFORMATION] Executed action _.Controllers.WeatherForecastController.Get (.) in 120.2235ms
+[09:04:03 INFORMATION] Executed endpoint '_.Controllers.WeatherForecastController.Get (.)'
+[09:04:03 INFORMATION] Request finished HTTP/2 GET https://localhost:5001/weatherforecast - 200 null application/json; charset=utf-8 170.5017ms
+[09:04:03 INFORMATION] Request starting HTTP/2 GET https://localhost:5001/favicon.ico - null null
+[09:04:03 INFORMATION] Request finished HTTP/2 GET https://localhost:5001/favicon.ico - 404 0 null 3.5921ms
+[09:04:03 INFORMATION] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:5001/favicon.ico, Response status code: 404
+[11:31:57 INFORMATION] Request starting HTTP/2 GET https://localhost:5001/weatherforecast - null null
+[11:31:57 INFORMATION] Executing endpoint '_.Controllers.WeatherForecastController.Get (.)'
+[11:31:57 INFORMATION] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[_.WeatherForecast] Get() on controller _.Controllers.WeatherForecastController (.).
+[11:31:57 INFORMATION] This is an information
+[11:31:57 WARNING] This is a warn message
+[11:31:57 ERROR] This is an error message
+[11:31:57 INFORMATION] Executing ObjectResult, writing value of type '_.WeatherForecast[]'.
+[11:31:57 INFORMATION] Executed action _.Controllers.WeatherForecastController.Get (.) in 14.2438ms
+[11:31:57 INFORMATION] Executed endpoint '_.Controllers.WeatherForecastController.Get (.)'
+[11:31:57 INFORMATION] Request finished HTTP/2 GET https://localhost:5001/weatherforecast - 200 null application/json; charset=utf-8 55.411ms
+[11:31:58 INFORMATION] Request starting HTTP/2 GET https://localhost:5001/weatherforecast - null null
+[11:31:58 INFORMATION] Executing endpoint '_.Controllers.WeatherForecastController.Get (.)'
+[11:31:58 INFORMATION] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[_.WeatherForecast] Get() on controller _.Controllers.WeatherForecastController (.).
+[11:31:58 INFORMATION] This is an information
+[11:31:58 WARNING] This is a warn message
+[11:31:58 ERROR] This is an error message
+[11:31:58 INFORMATION] Executing ObjectResult, writing value of type '_.WeatherForecast[]'.
+[11:31:58 INFORMATION] Executed action _.Controllers.WeatherForecastController.Get (.) in 4.0307ms
+[11:31:58 INFORMATION] Executed endpoint '_.Controllers.WeatherForecastController.Get (.)'
+[11:31:58 INFORMATION] Request finished HTTP/2 GET https://localhost:5001/weatherforecast - 200 null application/json; charset=utf-8 13.0005ms

@@ -19,3 +19,13 @@
 [17:33:56 INFORMATION] Application started. Press Ctrl+C to shut down.
 [17:33:56 INFORMATION] Hosting environment: Development
 [17:33:56 INFORMATION] Content root path: C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees
+[17:35:32 INFORMATION] Application is shutting down...
+[17:35:43 WARNING] The WebRootPath was not found: C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees\wwwroot. Static files may be unavailable.
+[17:35:43 INFORMATION] Now listening on: https://localhost:5001
+[17:35:43 INFORMATION] Now listening on: http://localhost:5000
+[17:35:43 INFORMATION] Application started. Press Ctrl+C to shut down.
+[17:35:43 INFORMATION] Hosting environment: Development
+[17:35:43 INFORMATION] Content root path: C:\Users\Julio Quezada\Documents\dev\codeMaze\company-employees
+[17:36:22 INFORMATION] Request starting HTTP/2 GET https://localhost:5001/ - null null
+[17:36:22 INFORMATION] Request finished HTTP/2 GET https://localhost:5001/ - 404 0 null 69.6733ms
+[17:36:22 INFORMATION] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:5001/, Response status code: 404
